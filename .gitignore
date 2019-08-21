@@ -1,0 +1,9 @@
+# macos
+.DS_Store
+# Intellij IDEA
+.idea/
+dqmserver.iml
+.vertx/
+target/
+out/
+var/logs/*
